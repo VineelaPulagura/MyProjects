@@ -1,0 +1,20 @@
+DEBUG: 2021-07-18 18:43:35,343: Classifier.py: <module>: Logs\KNN_results_20210718_184335\classifier.log
+DEBUG: 2021-07-18 18:43:35,517: Classifier.py: run_classifier: X_train.shape=(1381, 2), Y_train.shape=(1381,)
+DEBUG: 2021-07-18 19:03:04,795: Classifier.py: run_classifier: model.best_estimator_.get_params()['leaf_size']=1
+DEBUG: 2021-07-18 19:03:04,796: Classifier.py: run_classifier: model.best_estimator_.get_params()['p']=1
+DEBUG: 2021-07-18 19:03:04,798: Classifier.py: run_classifier: model.best_estimator_.get_params()['n_neighbors']=3
+DEBUG: 2021-07-18 19:03:05,218: Classifier.py: run_classifier: cv_scores=array([0.99280576, 0.97826087, 0.98550725, 1.        , 0.98550725,
+       0.97101449, 0.99275362, 0.98550725, 0.99275362, 1.        ])
+DEBUG: 2021-07-18 19:03:05,320: Classifier.py: run_classifier: X_train.shape=(1338, 2), Y_train.shape=(1338,)
+DEBUG: 2021-07-18 19:22:14,504: Classifier.py: run_classifier: model.best_estimator_.get_params()['leaf_size']=1
+DEBUG: 2021-07-18 19:22:14,505: Classifier.py: run_classifier: model.best_estimator_.get_params()['p']=1
+DEBUG: 2021-07-18 19:22:14,506: Classifier.py: run_classifier: model.best_estimator_.get_params()['n_neighbors']=1
+DEBUG: 2021-07-18 19:22:14,882: Classifier.py: run_classifier: cv_scores=array([0.95522388, 0.95522388, 0.97761194, 0.97014925, 0.94029851,
+       0.97014925, 0.97761194, 0.97014925, 0.95488722, 0.95488722])
+DEBUG: 2021-07-18 19:22:14,967: Classifier.py: run_classifier: X_train.shape=(1103, 2), Y_train.shape=(1103,)
+DEBUG: 2021-07-18 19:37:35,329: Classifier.py: run_classifier: model.best_estimator_.get_params()['leaf_size']=1
+DEBUG: 2021-07-18 19:37:35,330: Classifier.py: run_classifier: model.best_estimator_.get_params()['p']=2
+DEBUG: 2021-07-18 19:37:35,331: Classifier.py: run_classifier: model.best_estimator_.get_params()['n_neighbors']=1
+DEBUG: 2021-07-18 19:37:35,569: Classifier.py: run_classifier: cv_scores=array([0.99099099, 0.99099099, 1.        , 0.99090909, 1.        ,
+       1.        , 1.        , 1.        , 1.        , 0.99090909])
+DEBUG: 2021-07-18 19:37:35,570: Classifier.py: run_classifier: Accuracy={'WideStreet': 0.988411010322177, 'MiddleWideStreet': 0.9626192346537985, 'NarrowStreet': 0.9963800163800164}

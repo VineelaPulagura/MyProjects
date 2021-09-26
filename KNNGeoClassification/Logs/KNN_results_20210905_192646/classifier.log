@@ -1,0 +1,10 @@
+DEBUG: 2021-09-05 19:26:46,397: Classifier.py: <module>: Logs\KNN_results_20210905_192646\classifier.log
+DEBUG: 2021-09-05 19:26:46,444: Classifier.py: run_classifier: X_train.shape=(1381, 2), Y_train.shape=(1381,)
+DEBUG: 2021-09-05 19:26:58,224: Classifier.py: run_classifier: model.best_estimator_.get_params()['p']=1
+DEBUG: 2021-09-05 19:26:58,224: Classifier.py: run_classifier: model.best_estimator_.get_params()['n_neighbors']=3
+DEBUG: 2021-09-05 19:27:28,531: Classifier.py: run_classifier: X_train.shape=(1338, 2), Y_train.shape=(1338,)
+DEBUG: 2021-09-05 19:27:40,517: Classifier.py: run_classifier: model.best_estimator_.get_params()['p']=1
+DEBUG: 2021-09-05 19:27:40,517: Classifier.py: run_classifier: model.best_estimator_.get_params()['n_neighbors']=1
+DEBUG: 2021-09-05 19:28:05,024: Classifier.py: run_classifier: X_train.shape=(1103, 2), Y_train.shape=(1103,)
+DEBUG: 2021-09-05 19:28:17,673: Classifier.py: run_classifier: model.best_estimator_.get_params()['p']=1
+DEBUG: 2021-09-05 19:28:17,673: Classifier.py: run_classifier: model.best_estimator_.get_params()['n_neighbors']=1

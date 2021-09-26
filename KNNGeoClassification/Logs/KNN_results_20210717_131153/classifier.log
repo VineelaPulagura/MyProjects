@@ -1,0 +1,20 @@
+DEBUG: 2021-07-17 13:11:53,309: Data.py: <module>: Logs\KNN_results_20210717_131153\classifier.log
+DEBUG: 2021-07-17 13:11:53,404: Data.py: Data: X_train.shape=(1381, 2), Y_train.shape=(1381,)
+DEBUG: 2021-07-17 13:24:54,795: Data.py: Data: model.best_estimator_.get_params()['leaf_size']=1
+DEBUG: 2021-07-17 13:24:54,795: Data.py: Data: model.best_estimator_.get_params()['p']=1
+DEBUG: 2021-07-17 13:24:54,795: Data.py: Data: model.best_estimator_.get_params()['n_neighbors']=3
+DEBUG: 2021-07-17 13:24:54,904: Data.py: Data: cv_scores=array([0.98969072, 0.98969072, 0.98969072, 1.        , 1.        ,
+       0.98969072, 0.98958333, 0.98958333, 0.96875   , 1.        ])
+DEBUG: 2021-07-17 13:24:55,505: Data.py: Data: X_train.shape=(1338, 2), Y_train.shape=(1338,)
+DEBUG: 2021-07-17 13:40:45,980: Data.py: Data: model.best_estimator_.get_params()['leaf_size']=1
+DEBUG: 2021-07-17 13:40:45,980: Data.py: Data: model.best_estimator_.get_params()['p']=1
+DEBUG: 2021-07-17 13:40:45,980: Data.py: Data: model.best_estimator_.get_params()['n_neighbors']=1
+DEBUG: 2021-07-17 13:40:46,196: Data.py: Data: cv_scores=array([0.9893617 , 0.93617021, 0.9787234 , 0.93617021, 0.9787234 ,
+       0.89361702, 0.96774194, 0.95698925, 0.94623656, 0.95698925])
+DEBUG: 2021-07-17 13:40:46,357: Data.py: Data: X_train.shape=(1103, 2), Y_train.shape=(1103,)
+DEBUG: 2021-07-17 13:54:02,502: Data.py: Data: model.best_estimator_.get_params()['leaf_size']=1
+DEBUG: 2021-07-17 13:54:02,502: Data.py: Data: model.best_estimator_.get_params()['p']=1
+DEBUG: 2021-07-17 13:54:02,502: Data.py: Data: model.best_estimator_.get_params()['n_neighbors']=1
+DEBUG: 2021-07-17 13:54:02,756: Data.py: Data: cv_scores=array([0.97435897, 0.98717949, 0.97402597, 1.        , 0.98701299,
+       0.98701299, 0.98701299, 0.98701299, 0.97402597, 1.        ])
+DEBUG: 2021-07-17 13:54:02,756: Data.py: Data: Accuracy={'WideStreet': 0.9906679553264606, 'MiddleWideStreet': 0.9540722946694121, 'NarrowStreet': 0.9857642357642357}
